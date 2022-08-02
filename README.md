@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZxnoVRC
+- 👋 Hi, I’m Zxno
 - 👀 I’m interested in C# Programming
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on any vrchat mod/client
