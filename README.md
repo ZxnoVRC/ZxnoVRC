@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Zxno
-- 👀 I’m interested in C# Programming
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on any vrchat mod/client
-- 📫 How to reach me Zxno#1689
+Hi, I’m Zxno
+I’m interested in C# Programming
+I’m currently learning Unity
+reach me on discord: smallweenyzeeny
 
 <!---
 ZxnoVRC/ZxnoVRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
